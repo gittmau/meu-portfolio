@@ -1,0 +1,153 @@
+
+*{margin: 0;padding: 0;box-sizing: border-box;}
+
+
+
+html{scroll-behavior: smooth;}
+
+a{text-decoration: none;}
+
+#topo{width:100%;height:50px;background:linear-gradient(to top, #fcac0a,Gold);position: fixed;top:0;z-index: 2}
+
+#divLogo{width:85%;height:50px;background-color:#222;display: flex;position: absolute;}
+
+#logo{position: absolute;width:25%;margin:-10px 20px}
+
+#hamburginho{width:14%;float: right;margin:3px 2px;cursor: pointer;}
+
+#botaoFechar{position: absolute;font-family:Roboto,sans serif;color:#fff;font-size: 22pt;margin:7px 89%;cursor: pointer;visibility: hidden;}
+
+#menu{width:50%;height:100vh;background-color:rgba(34, 34, 34,0.9);margin-top:50px;margin-left:50%;transform: translateX(100%);}
+
+#menu ul{}
+
+#menu li{list-style: none;color: #fff;padding:20px 10px;font-family:'Kufam';line-height:2}
+
+#menu li:hover{font-weight: 900;text-shadow:2px 2px 5px #fff;background: Orange;}
+
+
+#planoFundo{width:100%;height:460px;background-image:url('capa3.jpg');background-size: cover;background-position: center;position: relative;margin-top:49px; }
+
+#filtro{width:100%;height:460px;background-color: rgba(0,0,0,0.7);}
+
+
+
+#fotoPerfil{width:40%;display: block;margin:20px auto;border-radius:250px}
+
+#nomeAutor{color: #fff;font-family:cursive;font-size:11pt;padding-top:5px;text-align: center;text-shadow: 2px 3px  5px #fff }
+
+.cursor{animation: anima-nome 1s infinite alternate;}
+
+@keyframes anima-nome{
+
+	from{opacity: 0}
+	to{opacity: 1}
+}
+
+#titulosChamada{width:100%;height:100px;position: absolute;margin-top:30px;}
+
+
+
+#filtro h1{text-align: center;color:#fff;padding-top:20px;font-family:'Kufam';text-transform: uppercase;text-shadow:3px 3px 5px #fff;font-size: 20pt}
+
+
+/*Soluções Web---------------------------*/
+
+.solucoesWeb{width:100%;margin:40px 0px;}
+
+.tecnologias{display:flex;flex-direction: column;}
+
+.tecnologias > p{font-family:Kufam;font-size:10pt;padding:5px 15px;}
+
+#solucoesWebTitulo {font-family: Kufam;color:#111;font-size:25pt;margin-left:15px;padding-top:80px }
+
+.icones{width:35%;height:120px;float: left;padding:0px 15px }
+
+
+.divisao{width:90%;border-top:1px solid #999;display: block;margin: 40px auto}
+
+
+/*Seção Sobre------------------*/
+
+#sobre{margin-top:0px;display: flex;flex-direction: column;}
+
+#perfilDesktop{display: none}
+
+.conteudoSobre{width:100%;height:px;margin:0px auto;}
+
+.conteudoSobre > h1{font-family:'Kufam';padding-top:60px;color:#111;font-size:30pt;margin-left: 20px;}
+
+.conteudoSobre > p{font-family:'Kufam';margin:10px 20px;color:#333;line-height:1.6;font-size:12pt}
+
+
+#imagemSobre img{display: block;margin: 0 auto;width:100%;}
+
+
+
+/*Seção Serviços--------------*/
+
+#geralService{}
+
+#servicos{width:100%;height:1150px;margin-top:30px;display: flex;flex-direction: column;}
+
+.img_servico{width:100%;margin:40px 0px }
+
+#tituloServico{font-family:'Kufam';padding-top:60px;color:#111;font-size:30pt;margin-left: 20px}
+
+.contentService > h3{font-family:'Raleway';color:#333;text-shadow:none;margin: 20px}
+
+.contentService > p{font-family:Calibri;margin:10px 20px;color:#555;line-height:1.6;font-size:12pt;}
+
+
+/*Portfólio------------------*/
+
+#portfolio{width:98%;height:1400px;margin: 0 auto}
+
+#portfolioDiv{margin: 0 auto;display: flex;flex-direction: column;}
+
+#portfolio h1{font-family:'Kufam';padding-top:60px;color:#111;font-size:30pt;margin-left: 20px;}
+
+#portfolio p {font-family:'Kufam';margin:10px 20px;color:#333;line-height:1.6;font-size:12pt}
+
+
+
+#portfolio h2{font-family:'Kufam';padding-top:60px;color:#111;font-size:25pt;text-align: center;}
+
+#links_portfolio{height:250px;}
+
+#links_portfolio h2{font-family: 'Kufam';color:#111;padding: 10px;margin-left: 20px;}
+
+#links_portfolio li{font-family: 'Kufam';line-height:50px;margin-left: 50px;color: #006fbe;text-decoration: underline;}
+
+
+iframe{width:99%;height:300px;margin:40px auto;}
+
+iframe:nth-child(4){height:150px;}
+
+
+footer{width: 100%;height:380px;background:#222;margin-top:0px;padding-top:40px}
+
+
+
+form{display: flex;flex-direction: column;}
+
+input{width:80%;padding: 12px;margin-left:3%;margin-top:25px;border:none;border-radius:25px}
+
+button{width:25%;padding:10px 5px;margin-left:3%;margin-top:25px;cursor: pointer;border:none;border-radius:25px;background:Orange;color:#fff;}
+
+button:hover{background:#40c351}
+
+#contato > p{margin-left:6%;font-family: 'Kufam';color:#fff;}
+
+#kedin{}
+
+#kedin,#zap,#face{width:10%;padding-top:10px}
+
+#zap{}
+
+#social{width:100%;height:70px;background:#222;text-align: center;}
+
+#autor > p{text-align:center;padding:10px;color:#fff;font-family: 'Kufam';font-size:9pt;background-color:#444}
+
+
+

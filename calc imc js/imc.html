@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Calcule o IMC</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <link rel="stylesheet" href="imc.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="icon" href="icone.jpg">
+    <link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+    <main>
+
+        <form name="formulario">
+
+            <fieldset>
+
+                <h2>IMC</h2>
+
+
+
+                <input type="text" placeholder="Seu Peso" name="peso" autofocus="focus"><br>
+
+                <input type="text" placeholder="Sua altura elevada ao quadrado" name="altura"><br>
+
+                <input type="text" placeholder="Resultado" name="result">
+
+
+                <button type="button" onclick="imc()" onclick="vazio()">Calcular</button>
+                <button type="reset" id="reset">Reset</button>
+
+                <p class="autor">&copy; By Mauricio Honorato 2020</p>
+
+
+            </fieldset>
+
+
+
+
+
+        </form>
+
+
+    </main>
+
+    <script src="imc.js"></script>
+
+</body>
+
+</html>
