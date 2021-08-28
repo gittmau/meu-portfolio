@@ -1,0 +1,555 @@
+
+@media screen and (min-width:360px){
+
+    #divLogo{width:86%}
+	
+    #logo{width:23%;margin:-12px 10px}
+
+    #hamburginho{width:13%;margin: 3px 2px}
+
+    #botaoFechar{margin:10px 91%;font-size:20pt}
+
+    #titulosChamada{margin-top:110px;font-size:25pt}
+
+    #planoFundo{height:540px;}
+
+    #filtro{height:540px;}
+
+    #filtro h1{font-size:18pt}
+
+    .conteudoSobre > p{font-size:10pt }
+
+    #servicos{width:100%;height:1150px}
+
+    #portfolio{width: 100%;height:1450px;}
+
+
+    iframe{width:89%;height:350px;margin:20px auto}
+}
+
+@media(min-width:367px){
+    
+    #conteudoWeb{background:;}
+    
+    .icones{width:37%;height:160px;}
+    
+    .divisao{margin:80px auto}
+    
+    .tecnologias > p{padding-top:45px;}
+    
+}
+
+@media(min-width: 370px){
+
+	#divLogo{width:87%}
+
+	#hamburginho{margin: 1px -2px}
+}
+
+
+
+@media(min-width: 380px){
+    
+    #logo{width:23%;margin:-14px 10px}
+
+    #hamburginho{width:13%;margin: 1px 0px}
+}
+
+
+@media(min-width:400px){
+
+	#logo{width:22%}
+
+   .tecnologias{padding: 10px 0px;}
+
+    iframe{width:83%;height:350px;margin:20px auto}
+
+    #social{width:100%;height:60px;}
+
+    #kedin,#zap,#face{width:10%;}
+}
+
+
+@media(min-width:410px){
+
+    #logo{margin:-16px 10px}
+
+    #hamburginho{width:12%;margin: 1px 2px}
+    
+    #tecnologias img{width:100%;height:200px;}
+
+    #conteudoSobre > p{font-size:13pt}
+
+    #fundoServicos > p{font-size:14pt}
+}
+
+
+@media(min-width:440px){
+
+    #logo{width:21%;margin:-17px 10px}
+
+    #hamburginho{width:12%;margin: 1px 3px}
+
+    #planoFundo{height:530px;}
+
+    #filtro{height:530px;}
+
+   .tecnologias{padding:25px 0px}
+}
+
+
+@media(min-width: 450px){
+
+	#logo{width:20%}
+
+    #hamburginho{width:12%;margin:0px 3px}
+}
+
+
+@media(min-width: 480px){
+
+	#logo{width:19%}
+
+    #hamburginho{width:11%;margin:0px 5px}
+
+    #botaoFechar{margin:10px 91.8%}
+
+    #kedin,#zap,#face{width:9%;}
+}
+
+
+@media(min-width: 500px){
+      
+    #hamburginho{width:10%;margin:2px 8px}
+
+    #planoFundo{height:560px;}
+
+    #filtro{height:560px;}
+
+   .solucoesWeb{width:100%;height:500px;margin:40px 0px;}
+      
+   .icones{width:25%;height:120px;float: left;padding:0px 15px }
+
+    #servicos{width:100%;height:1070px;}
+
+    iframe{width:70%;height:350px;margin-top:40px;display: flex;}
+
+   
+     
+}
+
+
+@media(min-width: 510px){
+
+    #logo{margin:-17px 20px}
+
+}   
+
+@media(min-width: 540px){
+     
+    #logo{width:17%} 
+
+    #hamburginho{width:10%;margin:0px 9px}
+
+    #kedin,#zap,#face{width:8%;}
+}
+
+
+@media(min-width: 580px){
+     
+    #logo{width:16%} 
+
+    #hamburginho{width:9%;margin:0px 12px}
+
+    #planoFundo{height:590px;}
+
+    #filtro{height:590px;}
+
+    input{width:60%;padding: 15px;margin-left:3%;margin-top:25px;border:none;border-radius:25px}
+
+     #kedin,#zap,#face{width:8%;padding-top:6px}
+}
+
+
+@media(min-width:600px){
+     
+    #logo{width:15%;margin:-17px 25px}
+
+    #planoFundo{height:600px;}
+
+    #filtro{height:600px;}
+
+}   
+
+
+@media(min-width:620px){
+
+    #hamburginho{width:8%;margin:0px 17px}
+
+} 
+
+
+@media(min-width: 640px){
+
+	#planoFundo{height:620px;}
+
+    #filtro{height:620px;}
+
+    #fotoPerfil{width:30%;}
+
+    #planoFundo{height:550px;}
+
+    #filtro{height:550px;}
+
+    #servicos{height:1200px;}
+
+    #fundoServicos{width:100%;height:800px}
+
+    #sobre, #fundoServicos p{font-size:14pt}
+
+}
+
+
+
+
+@media(min-width: 670px){
+   
+    #logo{width:13%;}
+
+    #divLogo{width:90%;}
+
+    #hamburginho{width:8%;margin:-1px 7px}
+
+    #botaoFechar{margin:10px 93.5%}
+
+   
+}  
+
+
+@media(min-width:768px){
+    
+
+    #hamburginho,#botaoFechar{display: none;}
+
+    #topo{background:#222;}
+
+    #logo{width:12%;margin:-16px 25px}
+
+    #menu{transform: translateX(0%);background: transparent;width:100%;height:0px;margin-top:0px;margin-left:0%;}
+
+    #menu ul{display: flex;margin-left:50%;}
+
+    #menu li{list-style: none;color:#fff;padding:13px;font-size:9pt}
+
+    #menu li:hover{font-weight:500;text-shadow:none;text-decoration:none;background:Orange;color:#000;transition:0.5s}
+
+    #fotoPerfil{width:18%;margin:0px auto;}
+    
+    #filtro h1{font-size:35pt;padding-top:50px;}
+
+    .solucoesWeb{width:100%;height:250px;}
+
+    #solucoesWebTitulo {font-size:25pt;margin-left:40px;padding-top:80px }
+
+    #conteudoWeb{display: flex;padding: 0px 20px}
+
+    .tecnologias{width:25%;margin:40px 0px;}
+
+    .tecnologias > p{font-size:7pt;padding:0px 15px;}
+
+    .divisao{display: none}
+
+    .icones{width:17%;height:140px;float:left;margin-top:40px}
+    
+    #sobre{ width:100%;height:270px;flex-direction: row;margin: 0 auto;border:1px solid #eeeeee;}
+
+    #perfilDesktop{width:20%;display:block;margin:8%;position: absolute;border-radius:2px;box-shadow: 4px 6px 5px #888 }
+
+    .conteudoSobre{width:100%;}
+
+    .conteudoSobre > h1{font-size:25pt;margin-left:-120px;}
+
+    .conteudoSobre > p{text-align:left;width:95%;font-size:9pt;margin-left:-120px; }
+
+    #servicos{width:70%;height:px;margin-top:30px;margin-left:0%;}
+
+    .contentService{width:80%;margin:8% 62%;}
+
+    .img_servico{width:62%;height:410px;float:left;}
+
+    #tituloServico{font-size:25pt;margin-left: 40px}
+
+    .contentService > p{font-size:8pt;width:80%;font-weight: 900}    
+
+    #servicos{height:600px;}
+
+    #fundoServicos > p{width:80%}
+
+    input{width:50%;padding:15px;margin-top:20px}
+
+    button{width:10%;padding:10px 5px;margin-top:20px;}
+
+    #contato > p{margin-left:7%;}
+
+    #kedin,#zap,#face{width:6%;padding-top:6px}    
+    
+    #portfolio{height:700px;background: #f4f4f4}    
+
+    #portfolio h1{margin-left: 20px}
+
+    #portfolio p {margin-left: 20px;font-size: 16pt;width:90%;}
+
+    #portfolioDiv{flex-direction: row;flex-wrap: nowrap;}
+
+    iframe{width:32%;}
+
+    iframe:nth-child(){width:65%;}
+
+    #links_portfolio ul{display: flex}
+
+    #links_portfolio{height:150px;}
+
+    #links_portfolio h2{font-family: 'Kufam';color:#111;padding:20px;margin-left: 20px;}
+
+   
+
+}    
+
+
+@media(min-width: 950px){
+
+	#hamburginho,#botaoFechar{display: none;}
+
+	#topo{background:#222;}
+
+	#logo{width:10%;margin:-18px 25px}
+
+	#menu{transform: translateX(0%);background: transparent;width:100%;height:0px;margin-top:0px;margin-left:0%;}
+
+	#menu ul{display: flex;margin-left:50%;}
+
+	#menu li{list-style: none;color:#fff;font-size:11pt;padding:10px;}
+
+	#menu li:hover{font-weight:500;text-shadow:none;text-decoration:none;background:Orange;color:#000;transition:0.5s}
+
+    fotoPerfil{width:15%;}
+
+    #perfilDesktop{width:19%;display:block;margin:5% 10%;position: absolute;}
+
+    #planoFundo,#filtro{height:600px;}    
+
+	#filtro h1{font-size:45pt}
+
+    .solucoesWeb{background: #f4f4f4;height:190px;}
+
+    #solucoesWebTitulo {font-size:25pt;margin-left:40px;padding-top:80px }
+
+    #conteudoWeb{display: flex;padding: 0px 20px}
+
+    .tecnologias > p{font-size:8pt;padding:0px 15px;}
+
+    .tecnologias{width:25%;margin:40px 0px;}
+
+    .divisao{display: none}
+
+    .icones{width:12%;height:110px;float:left;margin-top:45px}
+    
+    #sobre{ width:100%;height:278px;flex-direction: row;margin: 0 auto;}
+
+    .conteudoSobre{width:100%;}
+
+    .conteudoSobre > h1{font-size:25pt;margin-left:-150px;}
+
+    .conteudoSobre > p{text-align:left;width:95%;font-size:10pt;margin-left:-150px; }
+
+    #servicos{width:70%;height:px;margin-top:30px;margin-left:0%;}
+
+    .contentService{width:80%;margin:8% 62%;}
+
+    .img_servico{width:60%;height:450px;float:left;}
+
+    #tituloServico{font-size:25pt}
+
+    .contentService > p{font-size:9pt;width:80%;font-weight: 900}    
+
+    #servicos{height:600px;}
+
+	#fundoServicos > p{width:80%}
+
+    iframe{width:45%;height:400px;margin:20px auto}
+
+    iframe:nth-child(3){width:45%;}
+    
+
+    #portfolio{height:700px;}   
+
+    #portfolio h1{margin-left: 30px}
+
+    #portfolio p {margin-left: 30px;font-size: 16pt;width:90%;}input{width:50%;padding:17px;margin-top:20px}
+
+    button{width:10%;padding:10px 5px;margin-top:20px;}
+
+    #contato > p{margin-left:7%;}
+
+    #kedin,#zap,#face{width:4%;padding-top:6px}
+}
+
+
+@media(min-width: 1024px){
+
+    #logo{width:7%;margin:-10px 25px}
+
+    #menu li{font-size:10pt;padding: 12px}
+
+    #filtro h1{font-size:45pt;padding-top:80px}
+
+    .solucoesWeb{width:100%;height:200px;margin:40px 0px;background-color:#f4f4f4}
+
+    #solucoesWebTitulo {margin-left:35px}
+
+    .icones{height:130px;}
+
+    #perfilDesktop{margin:5%; }
+
+    #sobre{ width:90%;height:300px;box-shadow:4px 3px 2px #f4f4f4}
+
+    .conteudoSobre > p{text-align:left;width:95%;font-size:10pt;margin-left:-150px;margin-top:0px }
+
+    #tituloServico{margin-left: 35px}
+
+    #portfolio{height:750px;}  
+
+    #portfolioDiv{flex-direction: row;flex-wrap: nowrap;}
+    
+    iframe{width:45%;margin-top:40px;}
+
+    footer{height:420px;}
+
+    #contato > p{margin-left:5%;}
+
+    #kedin,#zap,#face{width:4%;padding-top:0px}
+
+   
+
+}
+
+
+@media(min-width: 1280px){
+         
+    #logo{width:6%;margin:-10px 25px}
+
+    #planoFundo{height:650px; }
+
+    #fotoPerfil{width:11%;}
+
+    #filtro{height:650px}
+
+    #filtro h1{padding-top:80px;font-size:48pt;}
+
+   .solucoesWeb{height:240px;padding:10px 25px;}
+
+    .icones{height:140px;}
+
+    .tecnologias > p{font-size:10pt;padding:0px 15px;}
+
+    #sobre{height:370px;}
+
+    .conteudoSobre > h1{margin-top: 45px}
+
+    .conteudoSobre > p{font-size:10pt;margin-left:-150px;margin-top:10px;}
+
+    #portfolio h1{margin-left: 30px}
+
+    #portfolio p {margin-left: 30px}
+
+    input{width:37%;padding:18px;margin-top:20px}
+
+    #kedin,#zap,#face{width:4%;padding-top:0px}
+
+
+}
+
+
+
+
+
+@media(min-width:1360px){
+
+	#logo{width:6%;margin:-14px 45px}
+
+    #filtro h1{padding-top:80px;font-size:40pt;}
+
+   	#perfilDesktop{width:15%;margin:5% 15%;}
+
+    .solucoesWeb{padding:8px 25px}
+
+    #solucoesWebTitulo {margin-left:65px;}
+
+    .icones{height:145px;}
+
+    #sobre{height:335px;}
+
+    .contentService{width:80%;margin:5% 62%;}
+
+    #tituloServico{margin-left: 65px}
+
+    .contentService > p{font-size:11pt;}
+
+    iframe{width:26%;margin-top:40px;display: flex;}
+
+    iframe:nth-child(3){width:26%;}
+
+    #portfolio h1{margin-left: 60px}
+
+    #portfolio p {margin-left: 60px}
+
+    #links_portfolio h2{margin-left:30px;}
+
+    #kedin,#zap,#face{width:3%;}   
+
+    
+}
+
+
+@media(min-width:1920px){
+    
+    #logo{width:6%}
+    
+    #topo{height:80px;}
+    
+    #planoFundo,#filtro{height:960px}
+    
+    #filtro h1{font-size:60pt}
+    
+    #nomeAutor{font-size:12pt}
+    
+    #menu li{padding:22px;font-size:14pt}
+    
+     .solucoesWeb{padding:20px 25px;height:340px;}
+     
+     .icones{height:245px;}
+     
+     .tecnologias > p{font-size:15pt;padding:25px 15px;}
+     
+     #sobre{width:95%;height:510px;}
+     
+     .conteudoSobre > h1{margin-left:-190px;margin-top:75px}
+     
+     .conteudoSobre > p{font-size:15pt;margin-left:-190px;margin-top:30px}
+     
+     #servicos{height:700px;}
+     
+     .img_servico{width:60%;height:630px;}
+     
+     .contentService > p{font-size:16pt;}
+     
+     iframe{width:;}
+
+     #contato > p{margin-left:4%;font-size: 16pt}
+
+      input{width:35%;padding:25px;border-radius: 35px}
+
+      button{width:10%;padding:15px 5px;}
+}
+
+
